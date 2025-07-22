@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Swift
+build/
+DerivedData/
+
+# Ruby
+*.gem
+.bundle/
+vendor/
