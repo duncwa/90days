@@ -13,3 +13,30 @@ DerivedData/
 *.gem
 .bundle/
 vendor/
+
+# Xcode
+.DS_Store
+build/
+*.pbxuser
+*.xcuserdatad
+*.xcworkspace
+xcuserdata/
+DerivedData/
+.swiftpm/xcode/package.xcworkspace/
+.swiftpm/xcode/xcuserdata/
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# CocoaPods (if used)
+Pods/
+
+# Carthage (if used)
+Carthage/Build/
+
+# Other
+*.log
+*.bak
+*.swp
+.localized
